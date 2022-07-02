@@ -3,15 +3,7 @@
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+# The company was funded in May 2013 by Zach Perret and William Hockey. Perret and Hockey began their carrers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started on working on side projects and eventually left the company to join start ups. 
 
 ## Business Activities:
 
