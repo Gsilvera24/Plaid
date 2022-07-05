@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-The company was funded in May 2013 by Zach Perret and William Hockey. Perret and Hockey began their carrers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started on working on side projects and eventually left the company to join start ups. In the process of looking for start ups, they built an app called Rambler which let users track their bank transactions on a sort of map layout. They quickly realized that extracting data from banks was particularly difficulty which led them focus on building the infrastructure that would facilitate this issues. This was the lightbulb moment for them and as a result Plaid was born. 
+The company was funded in May 2013 by Zach Perret and William Hockey. Perret and Hockey began their carrers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started working on side projects and eventually left the company to join start ups. In the process of looking for start ups, they built an app called Rambler which let users track their bank transactions on a map layout. They quickly realized that extracting data from banks was particularly difficult which led them focus on building the infrastructure that would facilitate this issues. This was the lightbulb moment for them and as a result Plaid was born. 
 
 ## Business Activities:
 
