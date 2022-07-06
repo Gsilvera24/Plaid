@@ -4,7 +4,7 @@
 ## Overview and Origin
 
 The company was funded in May 2013 by Zach Perret and William Hockey. 
-![founders](https://github.com/Gsilvera24/Plaid/blob/main/founders.jpg)
+![founders](https://github.com/Gsilvera24/Plaid/blob/main/founders.jpg)=with100
 Perret and Hockey began their careers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started working on side projects and eventually left the company to join startups. In the process, they built an app called Rambler which let users track their bank transactions on a map layout. They quickly realized that extracting data from banks was particularly difficult which led them to focus on building the infrastructure that would facilitate these issues. This was the lightbulb moment for them and as a result Plaid was born. Instead of working on the app, they worked on the backend technology that allows them to extract bank data from users in real time. In late 2013, they started their seed funding at  $2.8 million from Spark Capital. By the time they had reached their Series C funding, they had landed a $44 million round from Goldman Sachs investment partners. 
 
 ## Plaid’s Business Activities:
