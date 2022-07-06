@@ -29,7 +29,7 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 * The impact Plaid has had over the fintech space is tremendous. As of April 2021, the company is valued at $13 billion. More and more fintech apps are adopting their payment infrastructure. It is a key component in the fintech space.
 
 * There is large amounts of data that passes through the platform everyday. Some key metrics could be, account balances, recent transactions, log in credentials, customer information, location, etc. 
-* Relative to the domain, it is hard to compare who has the most market share. All the companies that are like Plaid may offer diferent services. Some companies may use Plaid for a specific product and may use competitors for a different service. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies.
+* Relative to the domain, it is hard to compare who has the most market share. All the companies that are like Plaid may offer diferent services. Some companies may use Plaid for a specific product and may use competitors for a different service. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies. 
 
 ## Recommendations
 
