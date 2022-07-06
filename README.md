@@ -9,18 +9,18 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 
 ## Plaid’s Business Activities:
 
-* Plaid is the technological infrastructure that allows fintechs to communicate with banks in real time. Before Plaid, banks and third party applications would use micro-transactions and written confirmations in order authenticate transactions. Plaid uses the login credentials from consumers to connect directly to their bank accounts. They can extract key information like balances or recent transactions without risking any other information like personal information or account numbers. 
+* Plaid is the technological infrastructure that allows fintechs to communicate with banks in real time. Before Plaid, banks and third party applications would use micro-transactions and written confirmations in order authenticate transactions. Plaid uses the login credentials from consumers to connect directly to their bank accounts. They can extract key information like balances or recent transactions through the login credentials of the consumer.  
 
-* The company's intended customers are other fintechs or any company that deals with some kind of financial transaction, mainly payments. Plaid is not a SaaS (software as a service), it is a platform that is mostly embedded in the code of other fintech companies. The regular consumer does not directly interact with the platform. In fact, Plaid is currently the backend infrastructure for many large fintech companies, Venmo, Betterment, TrueBill, Samsung, Chime and many others. Consumers use it everyday and may not even realize. Market size is virtually unlimited at the moment since there are so many fintechs popping up.
+* The company targets their products towards developers in the fintech space or any company that deals with financial transactions. Plaid is not a SaaS (software as a service), it is a platform that is mostly embedded in the code of already existing applications. The regular consumer does not use the platform directly. In fact, Plaid is currently the backend infrastructure for many large fintech companies, Venmo, Betterment, TrueBill, Samsung, Chime and many others. Consumers use it everyday and may not even realize. Market size is virtually unlimited at the moment since there are so many fintechs popping up.
 
 
 * The technology behind Plaid is an API (application programming interface). Getting started with the Plaid API does not take very long and all the details can be found at their [Github repository](https://github.com/plaid/quickstart)
 
 ## Landscape:
 
-* Plaid is essentially a financial services company. As mentioned before, the company is not Saas but instead offers a platform where transactions can be performed. The company makes money not from their infrastructure by itself, but through the amount of transactions it handles. Plaid charges by tier depending on transaction volume. 
+* Plaid is essentially a financial services company. As mentioned before, the company is not Saas but instead offers a platform where transactions can be performed. The company makes money not from the consumer (everday people), but through the amount of transactions it handles. Plaid charges their partners in tiers depending on transaction volume. 
 
-* Financial services in fintech vary widely. The key aspect that sets Plaid apart is their back end infrastructure. Companies like Venmo do not have to worry about the code they need in order to run smooth transactions. Plaid handles this for them. Venmo now just worries about expanding their consumer base. This is good for Plaid because they will be able to handle more transaction volume if Venmo expands. If their partner is doing well, so will they. 
+* Financial services in fintech vary widely. The key aspect that sets Plaid apart is their back end infrastructure. Companies like Venmo do not have to worry about the code they need in order to connect to the customer's bank account. Plaid handles this for them. Venmo now just worries about expanding their consumer base. This is good for Plaid because they will be able to handle more transaction volume if Venmo expands. If their partner is doing well, so will they. This is true for all their partners. 
 
 * There are few other players in the space; Galileo Financial Technologies, Akoya, Finicity, SynapseFI, MX, N26, Codat, Xignite and Varo Money. Most of these do not have the kind of market share as Plaid.
 
@@ -28,10 +28,8 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 
 * The impact Plaid has had over the fintech space is tremendous. As of April 2021, the company is valued at $13 billion. More and more fintech apps are adopting their payment infrastructure. It is a key component in the fintech space.
 
-* The metrics that are used involve the volume of transactions that pass through the platform.
-
-* 
-
+* There is large amounts of data that passes through the platform everyday. Some key metrics could be, account balances, recent transactions, log in credentials, customer information, location, etc. 
+* Relative to the domain, Plaid has by far the most market share. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies.
 
 ## Recommendations
 
