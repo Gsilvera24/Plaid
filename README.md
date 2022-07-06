@@ -1,4 +1,4 @@
-## **Plaid Inc.**
+## **Plaid**
 ![logo](https://github.com/Gsilvera24/Plaid/blob/main/plaidlogo.png)
 
 ## Overview and Origin
