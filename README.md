@@ -3,42 +3,13 @@
 
 ## Overview and Origin
 
-The company was funded in May 2013 by Zach Perret and William Hockey. Perret and Hockey began their carrers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started working on side projects and eventually left the company to join start ups. In the process of looking for start ups, they built an app called Rambler which let users track their bank transactions on a map layout. They quickly realized that extracting data from banks was particularly difficult which led them focus on building the infrastructure that would facilitate this issues. This was the lightbulb moment for them and as a result Plaid was born. 
+The company was funded in May 2013 by Zach Perret and William Hockey. Perret and Hockey began their careers at Bain Consulting. While at the company, they noticed that the financial system and many of their components were outdated and inefficient. They both started working on side projects and eventually left the company to join startups. In the process, they built an app called Rambler which let users track their bank transactions on a map layout. They quickly realized that extracting data from banks was particularly difficult which led them to focus on building the infrastructure that would facilitate these issues. This was the lightbulb moment for them and as a result Plaid was born. Instead of working on the app, they worked on the backend technology that allows them to extract bank data from users in real time. In late 2013, they started their seed funding at  $2.8 million from Spark Capital. By the time they had reached their Series C funding, they had landed a $44 million round from Goldman Sachs investment partners. 
 
-## Business Activities:
+## Plaid’s Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Plaid is the technological infrastructure that allows fintechs to communicate with banks in real time. Before Plaid, banks and third party applications would use micro-transactions and written confirmations in order authenticate transactions. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* The company's intended customers are other fintechs or any company that deals with some kind of financial transaction, mainly payments. Plaid is not a SaaS (software as a service), it is a platform that is mostly embedded in the code of other fintech companies. The regular consumer does not directly interact with the platform. In fact, Plaid is currently the backend infrastructure for many large fintech companies, Venmo, Betterment, TrueBill, Samsung, Chime and many others. Consumers use it everyday and may not even realize. Market size is virtually unlimited at the moment since there are so many fintechs popping up.
 
 
-## Landscape:
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* The technology behind Plaid is an API (application programming interface). Getting started with the Plaid API does not take very long and all the details can be found at their [Github repository](https://github.com/plaid/quickstart)
