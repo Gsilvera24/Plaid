@@ -29,15 +29,8 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 * The impact Plaid has had over the fintech space is tremendous. As of April 2021, the company is valued at $13 billion. More and more fintech apps are adopting their payment infrastructure. It is a key component in the fintech space.
 
 * There is large amounts of data that passes through the platform everyday. Some key metrics could be, account balances, recent transactions, log in credentials, customer information, location, etc. 
-* Relative to the domain, Plaid has by far the most market share. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies.
+* Relative to the domain, it is hard to compare who has the most market share. All the companies that are like Plaid may offer diferent services. Some companies may use Plaid for a specific product and may use competitors for a different service. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
+* Plaid could pontentially offer their own payment service. At the moment, they only sell to developers and product managers. They do not engage with the average consumer. Since they already have the infrastructure, they could create thier own app and enter the payment services market. I think this would benefit the company because half of the work is already done. They could hire developers to work on their app which would already be working with their back end infrastructure. 
