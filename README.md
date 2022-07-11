@@ -9,7 +9,7 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 
 ## Plaid’s Business Activities:
 
-* Plaid is the technological infrastructure that allows fintechs to communicate with banks in real time. Before Plaid, banks and third party applications would use micro-transactions and written confirmations in order authenticate transactions. Plaid uses the login credentials from consumers to connect directly to their bank accounts. They can extract key information like balances or recent transactions through the login credentials of the consumer.  
+* Plaid is the technological infrastructure that allows fintechs to communicate with banks in real time. Before Plaid, banks and third party applications would use micro-transactions and written confirmations in order authenticate transactions. Plaid uses the login credentials from consumers to connect directly to their bank accounts. They can safely and privately extract key information like balances or recent transactions through the login credentials of the consumer.  
 
 * The company targets their products towards developers in the fintech space or any company that deals with financial transactions. Plaid is not a SaaS (software as a service), it is a platform that is mostly embedded in the code of already existing applications. The regular consumer does not use the platform directly. In fact, Plaid is currently the backend infrastructure for many large fintech companies, Venmo, Betterment, TrueBill, Samsung, Chime and many others. Consumers use it everyday and may not even realize. Market size is virtually unlimited at the moment since there are so many fintechs popping up.
 
@@ -29,7 +29,7 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 * The impact Plaid has had over the fintech space is tremendous. As of April 2021, the company is valued at $13 billion. More and more fintech apps are adopting their payment infrastructure. It is a key component in the fintech space.
 
 * There is large amounts of data that passes through the platform everyday. Some key metrics could be, account balances, recent transactions, log in credentials, customer information, location, etc. 
-* Relative to the domain, it is hard to compare who has the most market share. All the companies that are like Plaid may offer diferent services. Some companies may use Plaid for a specific product and may use competitors for a different service. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies. 
+* Relative to the domain, it is hard to compare who has the most market share. All the companies that are like Plaid may offer diferent services. Some companies may use Plaid for a specific product and may use competitors for a different service. According to [Investopedia](https://www.investopedia.com/what-is-plaid-5207625), plaid is currently used by 4,500 companies. In January of this year, Plaid bought [Cognito](https://cognitohq.com/blog/plaid-and-cognito) which dealt with consumer identitiy verification which also runs on an API. Plaid saw this as an oportunity to expend their API services. 
 
 ## Recommendations
 
