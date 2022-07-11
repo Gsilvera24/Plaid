@@ -18,9 +18,9 @@ Perret and Hockey began their careers at Bain Consulting. While at the company, 
 
 ## Landscape:
 
-* Plaid is essentially a financial services company. As mentioned before, the company is not Saas but instead offers a platform where transactions can be performed. The company makes money not from the consumer (everyday people), but through the amount of transactions it handles. Plaid charges their partners in tiers depending on transaction volume. 
+* Plaid is essentially banking integration API company. As mentioned before, the company is not Saas but instead offers a platform where transactions can be performed. The company makes money not from the consumer (everyday people), but through the amount of transactions it handles. Plaid charges their partners in tiers depending on transaction volume. 
 
-* Financial services in fintech vary widely. The key aspect that sets Plaid apart is their back end infrastructure. Companies like Venmo do not have to worry about the code they need in order to connect to the customer's bank account. Plaid handles this for them. Venmo now just worries about expanding their consumer base. This is good for Plaid because they will be able to handle more transaction volume if Venmo expands. If their partner is doing well, so will they. This is true for all their partners. 
+* Financial services API may vary widely. The main three are: payment processing API's, banking integration and identification API's and stock trading API's. The key aspect that sets Plaid apart is their back end infrastructure. Companies like Venmo do not have to worry about the code they need in order to connect to the customer's bank account. Plaid handles this for them. Venmo now just worries about expanding their consumer base. This is good for Plaid because they will be able to handle more transaction volume if Venmo expands. If their partner is doing well, so will they. This is true for all their partners. 
 
 * There are few other players in the space; Galileo Financial Technologies, Akoya, Finicity, SynapseFI, MX, N26, Codat, Xignite and Varo Money. Most of these do not have the kind of market share as Plaid.
 
